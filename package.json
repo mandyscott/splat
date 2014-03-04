@@ -1,0 +1,7 @@
+{
+  "name": "Splat",
+  "version": "0.0.1",
+  "dependencies": {
+    "share": "~0.7.0-alpha13"
+  }
+}
